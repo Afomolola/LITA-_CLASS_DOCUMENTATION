@@ -33,5 +33,12 @@ This involved the utilization of Data we worked on, answers to some questions ab
 - Who are the top 5 selling markets
 - what is the overall sales trend
 - What is the average of the total revenue
-  
+
+### Data Analysis
+This is used to include some basic lines of code or queries or even some of the DAX expression used during our analysis;
+
+```SQL
+Select * from Employee
+Where condition = TRUE
+```
 ### DATA VISUALIZATION
