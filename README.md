@@ -34,9 +34,9 @@ The primary source of data we will be using majorly is Sales.csv gotten from an 
   2. For Analysis
   3. For Data Visualization
      
-- SQL - Structured Query Language for Querying of Data
+- SQL - Structured Query Language for Querying of Data, data management and Retrieval
 - GitHub for Portfolio Building
-- Power BI
+- Power BI for Data visualizationa and reporting
 
 ### Data Cleaning & Preparation
 ---
@@ -47,7 +47,7 @@ In the initial phase of the Data cleaning and preparation we performed the follo
    
 ### Exploratory Data Analysis
 ---
-This involved the utilization of Data we worked on, answers to some questions about the Data such as;
+This involved the utilization of Data we worked on, to answer some questions about the Data such as;
 - Who are the top 5 selling markets
 - what is the overall sales trend
 - What is the average of the total revenue
@@ -62,4 +62,5 @@ Where condition = TRUE
 ```
 ### Data Visualization
 ---
+This enables stakeholders to visually see the representation of data in ways to which it helps tell the beautiful story they need through the use of Charts, graphs,tables, matrix, maps to solve a problem
 ###
