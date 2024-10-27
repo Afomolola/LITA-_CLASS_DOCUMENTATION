@@ -4,19 +4,19 @@ Continuous improvement and documentation of my Data Analysis learning with the I
 
 ## PROJECT TITLE : Learning Documentation
 
-[PROJECT OVERVIEW] (#project-overview)
+[Project Overview](#project-overview)
 
-[DATA SOURCES] (#data-analysis)
+[Data Sources](#data-analysis)
 
-[TOOL USED] (#tool-used)
+[Tool Used](#tool-used)
 
-[DATA CLEANING AND PREPARATION] (#data-cleaning-&-preparation)
+[Data Cleaning & Preparation](#data-cleaning-&-preparation)
 
-[EXPLORATORY DATA ANALYSIS] (#exploratory-data-analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis] (#data-analysis)
+[Data Analysis](#data-analysis)
 
-[DATA VISUALIZATION] (#data-visualization)
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 ---
