@@ -7,7 +7,7 @@ Continuous improvement and documentation of my Data Analysis learning with the I
 ### PROJECT OVERVIEW
 ---
 This is a project that helped with exposure into the powerful world of Data Analysis, how to begin, the tools needed  installations and navigation of the tools.
-Having this knowledge is a plus to me as I currently work as a Quality Analyst and having to combine the tools and knowledge is progress for me thanks to the Incubator Hub for this great opportunity to learn! We will make use of various tools some of which are ; EXCEL, POWER BI and SQL. You will be surprised at how broad this tools are but equally user friendly once you have a hang of it and how it can help your business regardless of how small or big it is to get Data right.
+Having this knowledge is a plus to me as I currently work as a Quality Analyst and having to combine the tools and knowledge is progress for me thanks to the **Incubator Hub** for this great opportunity to learn! We will make use of various tools some of which are ; EXCEL, POWER BI and SQL. You will be surprised at how broad this tools are but equally user friendly once you have a hang of it and how it can help your business regardless of how small or big it is to get Data right.
 
 ### DATA SOURCES
 ---
