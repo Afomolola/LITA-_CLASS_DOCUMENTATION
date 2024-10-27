@@ -9,6 +9,8 @@ Having this knowledge is a plus to me as I currently work as a Quality Analyst a
 The primary source of data we will be using majorly is Sales.csv gotten from an open source Data that can be freely downloaded from online such as Kaggle or FRED or other data repository sites and also some data I got from my work space ( My department) to be precise generated during the learning journey
 ## FORMS
 ## TOOL USED
+Microsoft Excel https://www.microsoft.com/
+
 ## DATA CLEANING AND PREPARATION
 ## EXPLORATORY DATA ANALYSIS
 ## DATA VISUALIZATION
